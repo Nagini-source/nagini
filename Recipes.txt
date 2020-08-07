@@ -4,6 +4,7 @@ Welcome to Recipe kitchen
 Biryani
 butter naan
 chicken 
+chapathi
 
 Adding only in main branch
 
